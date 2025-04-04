@@ -6,7 +6,7 @@
   <li>Server name: VentureBlockMC</li>
   <li>Server IP: play.VentureBlockMC.com</li>
   <li>Discord: http://discord.VentureBlockMC.com</li>
-  <li>Server Wiki: [Server Wiki:](https://github.com/VentureBlockMC/Nations-Survival/wiki) (Coming Soon)</li>
+  <li>Server Wiki: https://github.com/VentureBlockMC/Nations-Survival/wiki (Coming Soon)</li>
   <li>Server Store: https://store.VentureBlockMC.com</li>
 </ul>
 <h3>Server Details:</h3>
