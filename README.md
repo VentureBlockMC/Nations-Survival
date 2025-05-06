@@ -1,4 +1,4 @@
-# Nations-Survival
+# Arcadia-Survival [NEW]
 <img src="https://i.ibb.co/fdFtb31/Venture-Block-Git-Hub-Dark-Aqua.png" alt="VentureBlockMC Arcadia" width="300" height="300">
 <hr>
 <h3>Server Information</h3>
